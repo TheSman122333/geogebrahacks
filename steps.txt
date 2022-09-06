@@ -1,0 +1,6 @@
+first u open geogebra
+click create acc
+scroll down to license
+scroll to open source libraries 
+go to the first link 
+type geogebrahacks and choose all github and click https://google.com
